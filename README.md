@@ -5,12 +5,12 @@ Designed Planetary Gear box with a stepper motor
 
 ## Overview
 This project is a custom-designed planetary gear system intended for use in a robotic arm joint.  
-It features an 8:1 gear ratio, supports loads up to ~450 g, and is optimized for 3D printing in PETG or PLA+.  
+It features an 6:1 gear ratio, supports loads up to ~450 g, and is optimized for 3D printing in PETG or PLA+.  
 A rotary encoder mount is integrated into the output shaft for precise position feedback.
 
 ## Specifications
 - **Outer Diameter**: 80 mm
-- **Gear Ratio**: 8:1
+- **Gear Ratio**: 6:1
 - **Number of Planets**: 3
 - **Motor**: NEMA 17 stepper
 - **Load Capacity**: ~450 g
