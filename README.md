@@ -1,6 +1,3 @@
-# Robot-Actuator-Planetary-Gear-box-
-Designed Planetary Gear box with a stepper motor
-
 # 80mm Planetary Gear System
 
 ## Overview
@@ -9,7 +6,7 @@ It features an 6:1 gear ratio, supports loads up to ~450 g, and is optimized for
 A rotary encoder mount is integrated into the output shaft for precise position feedback.
 
 ## Specifications
-- **Outer Diameter**: 80 mm
+- **Outer Diameter**: 70 mm
 - **Gear Ratio**: 6:1
 - **Number of Planets**: 3
 - **Motor**: NEMA 17 stepper
@@ -33,6 +30,3 @@ A rotary encoder mount is integrated into the output shaft for precise position 
 - Robotic arms
 - Automation systems
 - Educational robotics
-
-## License
-This project is released under the [MIT License](LICENSE).
