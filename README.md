@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a custom-designed planetary gear system intended for use in a robotic arm joint.  
-It features an 6:1 gear ratio, supports loads up to ~450 g, and is optimized for 3D printing in PETG or PLA+.  
+It features a 6:1 gear ratio and is optimized for use with 3D printing materials such as PETG or PLA+.  
 A rotary encoder mount is integrated into the output shaft for precise position feedback.
 
 ## Specifications
@@ -10,9 +10,7 @@ A rotary encoder mount is integrated into the output shaft for precise position 
 - **Gear Ratio**: 6:1
 - **Number of Planets**: 3
 - **Motor**: NEMA 17 stepper
-- **Load Capacity**: ~450 g
 - **Materials**: PETG or PLA+
-- **Special Feature**: Integrated rotary encoder mount
 
 ## File Structure
 - `/CAD` — SolidWorks part (`.SLDPRT`) and assembly (`.SLDASM`) files
@@ -24,7 +22,7 @@ A rotary encoder mount is integrated into the output shaft for precise position 
 1. Download and print the STL files.
 2. Use PETG or PLA+ with 40% infill for strength.
 3. Follow the assembly drawings in `/Drawings`.
-4. Mount to NEMA 17 motor and secure the rotary encoder.
+4. Mount to the NEMA 17 motor
 
 ## Applications
 - Robotic arms
