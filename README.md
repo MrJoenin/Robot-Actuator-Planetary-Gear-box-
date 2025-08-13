@@ -1,4 +1,4 @@
-# 70mm Planetary Gear System
+# 70mm 3D printed Planetary Gear System
 
 ## Overview
 This project is a custom-designed planetary gear system intended for use in a robotic arm joint.  
