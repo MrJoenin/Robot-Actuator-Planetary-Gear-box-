@@ -14,7 +14,7 @@ A rotary encoder mount is integrated into the output shaft for precise position 
 
 ## File Structure
 - `/CAD` — SolidWorks part (`.SLDPRT`) and assembly (`.SLDASM`) files
-- `/STL` — Ready-to-print 3D model files
+- `/stl` — Ready-to-print 3D model files
 - `/Drawings` — Technical drawings (PDF)
 - `/Images` — Rendered images and real build photos
 
