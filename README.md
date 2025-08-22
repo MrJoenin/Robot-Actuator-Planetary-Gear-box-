@@ -2,8 +2,7 @@
 
 ## Overview
 This project is a custom-designed planetary gear system intended for use in a robotic arm joint.  
-It features a 6:1 gear ratio and is optimized for use with 3D printing materials such as PETG or PLA+.  
-A rotary encoder mount is integrated into the output shaft for precise position feedback.
+It features a 6:1 gear ratio and is optimized for use with 3D printing materials such as PETG or PLA+. 
 
 ## Specifications
 - **Outer Diameter**: 70 mm
