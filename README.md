@@ -2,7 +2,7 @@
 
 **A compact 6:1 planetary gearbox designed for NEMA 17 stepper motors — built for robotic arm joints and modeled in SolidWorks.**
 
-![Full_Assembly1.0](PHOTOS/[Full_Assembly].png)
+![Full_Assembly](PHOTOS/[Full_Assembly].png)
 
 ---
 
