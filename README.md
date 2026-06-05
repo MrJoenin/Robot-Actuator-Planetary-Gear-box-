@@ -33,8 +33,8 @@ All parts were modeled in **SolidWorks** and are optimized for **FDM 3D printing
 
 | Parameter | Value |
 |---|---|
-| Outer Diameter | 70 mm |
-| Gear Ratio | 6:1 |
+| Outer Diameter | 2 inch |
+| Gear Ratio | 7:1 |
 | Number of Planet Gears | 3 |
 | Gear Type | Planetary (Epicyclic) |
 | Motor Compatibility | NEMA 17 Stepper |
@@ -45,7 +45,7 @@ All parts were modeled in **SolidWorks** and are optimized for **FDM 3D printing
 **Gear Ratio Verification:**
 ```
 Gear Ratio = 1 + (Ring Teeth / Sun Teeth)
-6 = 1 + (Ring Teeth / Sun Teeth)  →  Ring Teeth = 5 × Sun Teeth
+7 = 1 + (Ring Teeth / Sun Teeth)  →  Ring Teeth = 5 × Sun Teeth
 ```
 
 ---
