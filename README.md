@@ -1,6 +1,6 @@
-# 🦾 70mm Robot Actuator Planetary Gearbox
+# 🦾 2 inches Robot Actuator Planetary Gearbox
 
-**A compact 6:1 planetary gearbox designed for NEMA 17 stepper motors — built for robotic arm joints and modeled in SolidWorks.**
+**A compact 7:1 planetary gearbox designed for NEMA 17 stepper motors — built for robotic arm joints and modeled in SolidWorks.**
 
 ![Full_Assembly](PHOTOS/Full_Assembly.png)
 
@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-This project is a fully custom-designed **70mm planetary gearbox** intended for robotic arm joint actuation. The gearbox mounts directly onto a **NEMA 17 stepper motor** and provides a **6:1 gear reduction**, multiplying output torque while maintaining a compact, coaxial form factor.
+This project is a fully custom-designed **2 inches planetary gearbox** intended for robotic arm joint actuation. The gearbox mounts directly onto a **NEMA 17 stepper motor** and provides a **7:1 gear reduction**, multiplying output torque while maintaining a compact, coaxial form factor.
 
 Planetary (epicyclic) gear systems are the preferred architecture for robotic joints due to their high torque-to-weight ratio, balanced load distribution across multiple gear meshes, and clean coaxial input/output alignment.
 
@@ -20,8 +20,8 @@ All parts were modeled in **SolidWorks** and are optimized for **FDM 3D printing
 
 ## 🔩 Key Features
 
-- **6:1 gear reduction** — 6x torque multiplication over the motor's native output
-- **70mm outer diameter** — compact enough for most robotic arm linkage designs
+- **7:1 gear reduction** — 6x torque multiplication over the motor's native output
+- **2 inches outer diameter** — compact enough for most robotic arm linkage designs
 - **NEMA 17 compatible** — drop-in mount for the most common stepper motor form factor
 - **3-planet design** — balanced radial load, smooth output, minimal vibration
 - **3D-print ready** — all STL files included; no machining required
